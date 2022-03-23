@@ -1,0 +1,100 @@
+2021/09/02 18:05:27 [error] 20124#7112: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2021/09/02 18:37:57 [notice] 5376#19028: signal process started
+2021/09/02 18:38:53 [notice] 18244#13812: signal process started
+2021/09/02 18:39:57 [notice] 4572#6356: signal process started
+2021/09/02 18:44:22 [notice] 16220#12792: signal process started
+2021/09/02 18:45:00 [notice] 17756#9172: signal process started
+2021/09/02 18:45:39 [notice] 8604#9956: signal process started
+2021/09/02 18:46:07 [notice] 6640#8184: signal process started
+2021/09/02 18:46:28 [notice] 10636#8396: signal process started
+2021/09/02 18:46:37 [notice] 16444#612: signal process started
+2021/09/02 18:46:41 [error] 9292#6640: *1 directory index of "D:\demo\nginx-demo\nginx-1.20.1/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8888"
+2021/09/02 18:46:41 [error] 9292#6640: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/distfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8888", referrer: "http://localhost:8888/"
+2021/09/02 18:47:01 [error] 9292#6640: *1 directory index of "D:\demo\nginx-demo\nginx-1.20.1/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8888"
+2021/09/02 18:47:06 [notice] 7972#8264: signal process started
+2021/09/02 18:47:09 [error] 9292#6640: *2 directory index of "D:\demo\nginx-demo\nginx-1.20.1/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8888"
+2021/09/02 18:47:18 [error] 9292#6640: *3 directory index of "D:\demo\nginx-demo\nginx-1.20.1/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8888"
+2021/09/02 18:47:27 [notice] 14060#13516: signal process started
+2021/09/02 18:47:30 [error] 21276#7348: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8888"
+2021/09/02 18:48:24 [notice] 19920#19876: signal process started
+2021/09/02 18:48:33 [error] 21276#7348: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8888"
+2021/09/02 18:48:48 [notice] 2788#12896: signal process started
+2021/09/02 18:48:55 [error] 20892#4464: *1 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:7070"
+2021/09/02 18:48:55 [error] 20892#4464: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/htmlfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:7070", referrer: "http://localhost:7070/"
+2021/09/02 18:53:56 [notice] 14364#16612: signal process started
+2021/09/02 18:54:09 [error] 15900#10124: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:88"
+2021/09/02 18:54:09 [error] 15900#10124: *4 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/htmlfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:88", referrer: "http://localhost:88/"
+2021/09/02 18:54:54 [notice] 16028#12268: signal process started
+2021/09/02 18:55:19 [error] 16552#1820: *1 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:88"
+2021/09/02 18:55:43 [error] 8520#16612: *1 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/09/02 18:55:43 [error] 8520#16612: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/htmlfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/09/02 18:55:57 [error] 8520#16612: *1 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/09/02 18:58:49 [error] 16552#1820: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:88"
+2021/09/02 18:59:09 [error] 8520#16612: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2022/03/22 16:21:24 [emerg] 4216#15860: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/03/22 16:21:29 [emerg] 9276#14364: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/03/22 16:27:00 [emerg] 8604#12124: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/03/22 16:27:44 [emerg] 8776#11612: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/03/22 16:31:57 [error] 12356#15152: *1 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:31:58 [error] 12356#15152: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/distfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8066", referrer: "http://localhost:8066/"
+2022/03/22 16:33:33 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:33:33 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:33:33 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:33:34 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:33:34 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:33:37 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:33:39 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:33:39 [error] 12356#15152: *4 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:35:00 [error] 12356#15152: *7 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:35:01 [error] 12356#15152: *7 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:35:02 [error] 12356#15152: *7 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:35:02 [error] 12356#15152: *7 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:36:34 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:36:35 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:36:35 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:37:33 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:37:33 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:37:33 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:37:36 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:37:36 [error] 12356#15152: *10 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/distfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8066", referrer: "http://localhost:8066/"
+2022/03/22 16:37:46 [error] 12356#15152: *10 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/distindex" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:13 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:14 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:15 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:15 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:42 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:43 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:43 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:44 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:44 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:38:50 [error] 12356#15152: *10 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/distdist/index" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /dist/index HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:39:42 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:39:43 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:39:43 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:12 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:12 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:12 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:13 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:13 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:34 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:34 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:39 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:40:39 [error] 12356#15152: *10 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/distfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8066", referrer: "http://localhost:8066/"
+2022/03/22 16:41:19 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:41:19 [error] 12356#15152: *10 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/distfavicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8066", referrer: "http://localhost:8066/"
+2022/03/22 16:41:22 [error] 12356#15152: *10 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:42:53 [error] 12356#15152: *17 directory index of "D:\demo\nginx-demo\nginx-1.20.1/html/dist" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8066"
+2022/03/22 16:45:19 [emerg] 11904#9236: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/03/22 16:46:19 [error] 15672#17208: *1 CreateFile() "D:\demo\vue-demo\vue-important\dist/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8011", referrer: "http://localhost:8011/"
+2022/03/22 16:49:35 [error] 15672#17208: *7 CreateFile() "D:\demo\vue-demo\vue-important\dist/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8011", referrer: "http://localhost:8011/"
+2022/03/22 16:51:34 [error] 15672#17208: *10 CreateFile() "D:\demo\vue-demo\vue-important\dist/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8011", referrer: "http://localhost:8011/"
+2022/03/22 16:52:11 [error] 15672#17208: *14 CreateFile() "D:\demo\vue-demo\vue-important\dist/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8011", referrer: "http://localhost:8011/"
+2022/03/22 17:12:08 [error] 15672#17208: *21 CreateFile() "D:\demo\vue-demo\vue-important\dist/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8011", referrer: "http://localhost:8011/"
+2022/03/22 17:19:09 [error] 10616#2828: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8013", referrer: "http://localhost:8013/"
+2022/03/22 17:28:18 [error] 9188#2728: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8012", referrer: "http://localhost:8012/"
+2022/03/23 09:05:14 [error] 6752#12984: *1 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8012", referrer: "http://localhost:8012/"
+2022/03/23 09:05:27 [notice] 7108#5172: signal process started
+2022/03/23 09:06:34 [notice] 12864#5232: signal process started
+2022/03/23 09:07:29 [notice] 10836#9952: signal process started
+2022/03/23 09:07:34 [error] 5908#6756: *6 CreateFile() "D:\demo\nginx-demo\nginx-1.20.1/html/dist/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8012", referrer: "http://localhost:8012/"
+2022/03/23 09:07:47 [notice] 13308#12372: signal process started
